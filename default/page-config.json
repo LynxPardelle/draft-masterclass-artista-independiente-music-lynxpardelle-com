@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "domain": "masterclass-artista-independiente.music.lynxpardelle.com",
+  "pageId": "default",
+  "rootIds": [
+    "site-shell"
+  ],
+  "modalRootIds": [],
+  "seo": {
+    "title": "Hazlo tú mismo: gestión para artistas independientes | Lynx Pardelle",
+    "description": "Organiza las decisiones que acompañan a un proyecto musical independiente. Explora cómo coordinar la imagen, el trabajo de gestión y los recursos, e identifica las preguntas sobre autoría que conviene resolver al empezar.",
+    "canonical": "https://masterclass-artista-independiente.music.lynxpardelle.com/",
+    "robots": "index,follow",
+    "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/images/lynx-offer-v1-masterclass-negocio.webp"
+    }
+  }
+}

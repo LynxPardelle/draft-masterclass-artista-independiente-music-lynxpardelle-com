@@ -7,12 +7,63 @@
   ],
   "modalRootIds": [],
   "seo": {
-    "title": "Hazlo tú mismo: gestión para artistas independientes | Lynx Pardelle",
-    "description": "Organiza las decisiones que acompañan a un proyecto musical independiente. Explora cómo coordinar la imagen, el trabajo de gestión y los recursos, e identifica las preguntas sobre autoría que conviene resolver al empezar.",
+    "title": "Masterclass de gestión para artistas independientes | Lynx Pardelle",
+    "description": "Organiza imagen, responsabilidades y recursos de tu proyecto musical. Revisa conceptos de derechos de autor y colaboración como artista independiente.",
     "canonical": "https://masterclass-artista-independiente.music.lynxpardelle.com/",
     "robots": "index,follow",
     "openGraph": {
+      "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-artista-independiente-r2-1ac3d55c73a49036.webp",
+      "title": "Masterclass de gestión para artistas independientes | Lynx Pardelle",
+      "description": "Organiza imagen, responsabilidades y recursos de tu proyecto musical. Revisa conceptos de derechos de autor y colaboración como artista independiente.",
+      "url": "https://masterclass-artista-independiente.music.lynxpardelle.com/",
+      "imageAlt": "Una persona preparando materiales de su propio lanzamiento."
+    },
+    "twitter": {
+      "card": "summary_large_image",
+      "title": "Masterclass de gestión para artistas independientes | Lynx Pardelle",
+      "description": "Organiza imagen, responsabilidades y recursos de tu proyecto musical. Revisa conceptos de derechos de autor y colaboración como artista independiente.",
       "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-artista-independiente-r2-1ac3d55c73a49036.webp"
     }
+  },
+  "structuredData": {
+    "entries": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "@id": "https://masterclass-artista-independiente.music.lynxpardelle.com/#webpage",
+        "name": "Hazlo tú mismo: gestión para artistas independientes",
+        "description": "Organiza imagen, responsabilidades y recursos de tu proyecto musical. Revisa conceptos de derechos de autor y colaboración como artista independiente.",
+        "url": "https://masterclass-artista-independiente.music.lynxpardelle.com/",
+        "inLanguage": "es",
+        "isPartOf": {
+          "@type": "CollectionPage",
+          "name": "Masterclasses",
+          "url": "https://music.lynxpardelle.com/formacion/masterclasses"
+        },
+        "mainEntity": {
+          "@id": "https://masterclass-artista-independiente.music.lynxpardelle.com/#contenido-de-la-oferta"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "Course",
+        "@id": "https://masterclass-artista-independiente.music.lynxpardelle.com/#contenido-de-la-oferta",
+        "name": "Hazlo tú mismo: gestión para artistas independientes",
+        "description": "Organiza imagen, responsabilidades y recursos de tu proyecto musical. Revisa conceptos de derechos de autor y colaboración como artista independiente.",
+        "url": "https://masterclass-artista-independiente.music.lynxpardelle.com/",
+        "image": "https://assets.zoolandingpage.com.mx/music.lynxpardelle.com/shared/hero-images/masterclass-artista-independiente-r2-1ac3d55c73a49036.webp",
+        "provider": {
+          "@id": "https://lynxpardelle.com/#person"
+        },
+        "inLanguage": "es",
+        "offers": {
+          "@type": "Offer",
+          "name": "Una inscripción",
+          "url": "https://masterclass-artista-independiente.music.lynxpardelle.com/#precios",
+          "price": 1750,
+          "priceCurrency": "MXN"
+        }
+      }
+    ]
   }
 }
